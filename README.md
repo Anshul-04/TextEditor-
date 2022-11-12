@@ -1,2 +1,2 @@
 # TextEditor-
-A simple Text editor javing in Java using Swing.
+A simple Text editor in Java using Swing.
